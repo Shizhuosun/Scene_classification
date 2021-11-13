@@ -1,0 +1,15 @@
+    0: Coast
+    1: Forest
+    2: Highway
+    3: Insidecity
+    4: Mountain
+    5: Office
+    6: OpenCountry
+    7: Street
+    8: Suburb
+    9: TallBuilding
+    10: bedroom
+    11: industrial
+    12: kitchen
+    13: livingroom
+    14: store
